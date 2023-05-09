@@ -1,0 +1,9 @@
+.input{
+    margin: 5px;
+}
+
+#tabla{
+    @media ( width <= 990px) {
+        font-size: 0.5em;
+    }
+}

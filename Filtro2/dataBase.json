@@ -1,0 +1,93 @@
+{
+  "clientes": [
+    {
+      "identificacion": "1",
+      "nombres": "Juan Esteban",
+      "apellidos": "Gómez García",
+      "telefono": "314220800",
+      "fecha": "2001-05-17",
+      "ciudad": "Bucaramanga",
+      "pais": "Colombia",
+      "correo": "juan@gmail.com",
+      "id": 1
+    },
+    {
+      "identificacion": "2",
+      "nombres": "Pedro",
+      "apellidos": "Gonzales",
+      "telefono": "312456",
+      "fecha": "2023-05-17",
+      "ciudad": "Medellin",
+      "pais": "Colombia",
+      "correo": "p2@gmail.com",
+      "id": 2
+    },
+    {
+      "identificacion": "123",
+      "nombres": "Pedro",
+      "apellidos": "Trujillo",
+      "telefono": "31245",
+      "fecha": "2023-05-03",
+      "ciudad": "bucara",
+      "pais": "colombi",
+      "correo": "p2@gmail.com",
+      "id": 3
+    }
+  ],
+  "rutas": [
+    {
+      "nombre": "EuropaCorto",
+      "origen": "París",
+      "destino": "Madrid",
+      "total": "20",
+      "valor": "20000",
+      "id": 1
+    },
+    {
+      "nombre": "Asia",
+      "origen": "China",
+      "destino": "Japón",
+      "total": "10",
+      "valor": "50000",
+      "id": 2
+    }
+  ],
+  "flota": [
+    {
+      "numero": "ABC123",
+      "cantidad": "600",
+      "fecha": "2023-05-01",
+      "valor": "6000000",
+      "matricula": "RTE1234",
+      "id": 1
+    }
+  ],
+  "personal": [],
+  "tiquete": [
+    {
+      "identificacion": "4",
+      "nombres": "Pedro",
+      "apellidos": "Gonzales",
+      "correo": "p2@gmail.com",
+      "origen": "China",
+      "destino": "Japón",
+      "id": 2
+    },
+    {
+      "origen": "París",
+      "destino": "Madrid",
+      "identificacion": "1",
+      "nombres": "Juan Esteban",
+      "apellidos": "Gómez García",
+      "correo": "juan@gmail.com",
+      "id": 3
+    }
+  ],
+  "embarque": [
+    {
+      "fecha": "2023-05-08",
+      "identificacion": "1",
+      "id": 1
+    }
+  ]
+}
